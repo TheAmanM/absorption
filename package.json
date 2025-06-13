@@ -1,0 +1,21 @@
+{
+  "name": "absorption",
+  "displayName": "absorption",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Absorption",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Absorption-color-theme.json"
+      }
+    ]
+  }
+}
